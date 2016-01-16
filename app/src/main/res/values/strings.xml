@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MagdeGo</string>
+    <string name="title_activity_departure_view">MagdeGo</string>
+    <string name="label_loading">Lade Daten...</string>
+    <string name="action_refresh">Aktualisieren</string>
+    <string name="action_about">Über</string>
+    <string name="departure">Abfahrt</string>
+    <string name="direction">Richtung</string>
+    <string name="line">Linie</string>
+</resources>
